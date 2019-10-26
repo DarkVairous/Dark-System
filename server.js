@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://3bkersyst.glitch.me/`);
+  http.get(`https://github.com/DarkVairous/Dark-System`);
 }, 280000);
 
 const Discord = require('discord.js');  //WESO#0001
@@ -4823,4 +4823,4 @@ client.on('message',  (message) => {
 
 
 
-client.login('token');
+client.login('NjM3NDA0NDc3OTEzMTY5OTUy.XbNv_Q.3rGBMtSd3UQW3QoTS551g-4Bfcc');
